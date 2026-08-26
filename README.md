@@ -9,9 +9,8 @@ I build software and hardware projects across embedded systems, desktop applicat
 
 ## Featured projects
 
-- [Smart Parking Control System](https://github.com/ardaS37/smart-parking-control-system) — Arduino RFID parking-control prototype and Teknofest finalist project.
-- [Wiibatak](https://github.com/ardaS37/wiibatak) — single-player Batak card game for Nintendo Wii, written in C with SDL2.
-- [Scoreboard for Schools](https://github.com/ardaS37/scoreboard-for-schools) — Arduino-based electronic scoreboard for school activities and games.
+- [Smart Parking Control System](https://github.com/ardaS37/smart-parking-control-system) — RFID parking-control prototype and Teknofest finalist project.
+- [Scoreboard for Schools](https://github.com/ardaS37/scoreboard-for-schools) — Electronic scoreboard for school activities and games.
 - [Arduino Online Clock](https://github.com/ardaS37/arduino-online-clock) — Arduino clock project with a Wi-Fi-enabled variant.
 
 ## Connect
