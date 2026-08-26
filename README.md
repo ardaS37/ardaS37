@@ -18,5 +18,7 @@ I build software and hardware projects across embedded systems, desktop applicat
 
 - [LinkedIn](https://www.linkedin.com/in/arda-sapl%C4%B1o%C4%9Flu-a97962323/)
 - [HackerEarth](https://www.hackerearth.com/@ardasaplioglu37/)
+- [ORCID](https://orcid.org/0009-0003-6168-4995)
+- [Patreon](https://www.patreon.com/c/ardasaplioglu?fromConcierge=true&vanity=user)
 
 Thanks for stopping by.
