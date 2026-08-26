@@ -1,1 +1,22 @@
-Merhaba
+# Hi, I'm Arda Saplıoğlu 👋
+
+I build software and hardware projects across embedded systems, desktop applications, web development, and retro game development.
+
+## Highlights
+
+- **Teknofest 2021 Smart Transportation Systems finalist** — ranked **6th** in the final scoring with the [Smart Parking Control System](https://github.com/ardaS37/smart-parking-control-system).
+- Developing practical projects with Arduino, C/C++, C#, Python, React, and .NET.
+
+## Featured projects
+
+- [Smart Parking Control System](https://github.com/ardaS37/smart-parking-control-system) — Arduino RFID parking-control prototype and Teknofest finalist project.
+- [Wiibatak](https://github.com/ardaS37/wiibatak) — single-player Batak card game for Nintendo Wii, written in C with SDL2.
+- [Scoreboard for Schools](https://github.com/ardaS37/scoreboard-for-schools) — Arduino-based electronic scoreboard for school activities and games.
+- [Arduino Online Clock](https://github.com/ardaS37/arduino-online-clock) — Arduino clock project with a Wi-Fi-enabled variant.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/arda-sapl%C4%B1o%C4%9Flu-a97962323/)
+- [HackerEarth](https://www.hackerearth.com/@ardasaplioglu37/)
+
+Thanks for stopping by.
