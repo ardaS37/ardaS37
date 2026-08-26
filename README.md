@@ -4,7 +4,7 @@ I build software and hardware projects across embedded systems, desktop applicat
 
 ## Highlights
 
-- **Teknofest 2021 Smart Transportation Systems finalist** — ranked **6th** in the final scoring with the [Smart Parking Control System](https://github.com/ardaS37/smart-parking-control-system).
+- **Teknofest 2021 finalist** in both **Smart Transportation Systems** and **Educational Technologies**.
 - Developing practical projects with Arduino, C/C++, C#, Python, React, and .NET.
 
 ## Featured projects
