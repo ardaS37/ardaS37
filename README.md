@@ -1,6 +1,6 @@
 # Hi, I'm Arda Saplıoğlu 👋
 
-I build software and hardware projects across embedded systems, desktop applications, web development, and retro game development.
+I build software and hardware projects across embedded systems, desktop applications, and web development.
 
 ## Highlights
 
