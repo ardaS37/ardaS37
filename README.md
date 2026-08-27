@@ -24,5 +24,6 @@ I build software and hardware projects across embedded systems, desktop applicat
 - [Instagram](https://www.instagram.com/ardasaplioglu/)
 - [Internet Archive](https://archive.org/details/@arda_sapl_o_lu)
 - [Stack Overflow](https://stackoverflow.com/users/21547893/ardas37)
+- [Devpost](https://devpost.com/ardasaplioglu37)
 
 Thanks for stopping by.
