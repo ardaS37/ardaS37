@@ -5,7 +5,7 @@ I build software and hardware projects across embedded systems, desktop applicat
 ## Highlights
 
 - **Teknofest 2021 finalist** in both **Smart Transportation Systems** and **Educational Technologies**.
-- Developing practical projects with Arduino, C/C++, C#, Python, React, and .NET.
+- Developing practical projects with Arduino, C/C++, C#, Python, and .NET.
 
 ## Featured projects
 
