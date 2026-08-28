@@ -19,10 +19,8 @@ I build software and hardware projects across embedded systems, desktop applicat
 
 ## GitHub activity
 
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ardaS37&show_icons=true&hide_border=true&theme=transparent" alt="Arda's GitHub statistics" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ardaS37&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="170" />
-</p>
+[![GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardaS37&theme=github_dark)](https://github.com/ardaS37)
+[![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardaS37&theme=github_dark)](https://github.com/ardaS37)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ardaS37&style=flat&color=2563eb&label=Profile+views)
 
