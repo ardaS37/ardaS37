@@ -53,4 +53,5 @@ I build software and hardware projects across embedded systems, desktop applicat
 <a href="https://devpost.com/ardasaplioglu37"><img src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" alt="Devpost" /></a>
 <br>
 <a href="https://x.com/ASaplioglu"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
+<a href="https://lnk.bio/ardas"><img src="https://img.shields.io/badge/All%20links-lnk.bio-111827?logo=linktree&logoColor=white" alt="All links" /></a>
 Thanks for stopping by.
