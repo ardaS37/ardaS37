@@ -53,10 +53,4 @@ I build software and hardware projects across embedded systems, desktop applicat
 <a href="https://devpost.com/ardasaplioglu37"><img src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" alt="Devpost" /></a>
 <br>
 <a href="https://x.com/ASaplioglu"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.threads.com/@ardasaplioglu"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white" alt="Threads" /></a>
-<a href="https://www.youtube.com/@ardasaploglu4494"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.facebook.com/profile.php?id=100082030011000"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://nsosyal.com/ardasaplioglu"><img src="https://img.shields.io/badge/NSosyal-111827?logoColor=white" alt="NSosyal" /></a>
-<a href="https://tr.pinterest.com/ardasaplioglu37/_profile/"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-<a href="https://bsky.app/profile/ardasaplioglu.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white" alt="Bluesky" /></a>
 Thanks for stopping by.
