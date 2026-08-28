@@ -43,8 +43,8 @@ I build software and hardware projects across embedded systems, desktop applicat
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardaS37/ardaS37/gh-pages/github-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ardaS37/ardaS37/gh-pages/github-snake.svg" />
 </picture>
-## Connect
 
+## Connect
 <a href="https://www.linkedin.com/in/arda-sapl%C4%B1o%C4%9Flu-a97962323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://orcid.org/0009-0003-6168-4995"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="https://www.patreon.com/c/ardasaplioglu?fromConcierge=true&vanity=user"><img src="https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white" alt="Patreon" /></a>
@@ -53,4 +53,5 @@ I build software and hardware projects across embedded systems, desktop applicat
 <a href="https://stackoverflow.com/users/21547893/ardas37"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://www.hackerearth.com/@ardasaplioglu37/"><img src="https://img.shields.io/badge/HackerEarth-2C3454?logo=hackerearth&logoColor=white" alt="HackerEarth" /></a>
 <a href="https://devpost.com/ardasaplioglu37"><img src="https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white" alt="Devpost" /></a>
+<br>
 Thanks for stopping by.
