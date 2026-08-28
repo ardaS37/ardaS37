@@ -13,8 +13,8 @@ I build software and hardware projects across embedded systems, desktop applicat
 - [AutoScheduler](https://github.com/ardaS37/auto-scheduler) — Desktop class timetable planner and scheduler. [Available on Microsoft Store](https://apps.microsoft.com/detail/9p68crlg39px?hl=tr-TR&gl=TR).
 - [Smart Parking Control System](https://github.com/ardaS37/smart-parking-control-system) — RFID parking-control prototype and Teknofest finalist project.
 - [Scoreboard for Schools](https://github.com/ardaS37/scoreboard-for-schools) — Electronic scoreboard for school activities and games.
-- [Arduino Online Clock](https://github.com/ardaS37/arduino-online-clock) — Arduino clock project with a Wi-Fi-enabled variant.
-- [Yoliz](https://github.com/ardaS37/yoliz) — AutoCAD plugin for transportation and roadway design workflows.
+
+
 
 
 ## GitHub activity
