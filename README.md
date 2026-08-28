@@ -15,6 +15,25 @@ I build software and hardware projects across embedded systems, desktop applicat
 - [Scoreboard for Schools](https://github.com/ardaS37/scoreboard-for-schools) — Electronic scoreboard for school activities and games.
 - [Arduino Online Clock](https://github.com/ardaS37/arduino-online-clock) — Arduino clock project with a Wi-Fi-enabled variant.
 
+
+## GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ardaS37&show_icons=true&hide_border=true&theme=transparent" alt="Arda's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaS37&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" height="170" />
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=ardaS37&style=flat&color=2563eb&label=Profile+views)
+
+## Technologies
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111827)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/arda-sapl%C4%B1o%C4%9Flu-a97962323/)
