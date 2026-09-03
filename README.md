@@ -24,7 +24,6 @@ I build software and hardware projects across embedded systems, desktop applicat
 
 ![Profile views](https://komarev.com/ghpvc/?username=ardaS37&style=flat&color=2563eb&label=Profile+views)
 
-## Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
@@ -34,7 +33,6 @@ I build software and hardware projects across embedded systems, desktop applicat
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 
-## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardaS37/ardaS37/gh-pages/github-snake-dark.svg" />
